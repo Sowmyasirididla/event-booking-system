@@ -259,12 +259,3 @@ server.js
 
 Sowmya Siri
 
----
-
-If you want, I can also generate:
-
-✅ Postman Collection JSON
-✅ Database Schema Diagram
-✅ 1-minute interview explanation
-
-Just tell me!
